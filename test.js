@@ -1,5 +1,5 @@
 const expect = require('chai').expect;
-const isTruthy = require('./libs');
+const isTruthy = require('./');
 
 describe('isTruthy', function () {
 
