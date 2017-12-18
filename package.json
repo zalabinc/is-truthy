@@ -1,6 +1,6 @@
 {
-  "name": "zl-is-truthy",
-  "version": "1.0.0",
+  "name": "zalab-is-truthy",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
