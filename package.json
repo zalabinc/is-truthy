@@ -1,14 +1,25 @@
 {
   "name": "zalab-is-truthy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zalabinc/zlb-is-truthy"
+  },
+  "keywords": [
+    "predicate",
+    "truthy"
+  ],
+  "author": "ZalabInc <zalab_inc@outlook.com> (https://github.com/zalabinc/zlb-is-truthy/issues)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zalabinc/zlb-is-truthy/issues"
+  },
+  "homepage": "https://github.com/zalabinc/zlb-is-truthy",
   "dependencies": {
     "kind-of": "^6.0.2"
   },
